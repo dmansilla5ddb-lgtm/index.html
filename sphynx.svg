@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5b4b58"/><stop offset="1" stop-color="#c9a6b2"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".22"/></filter>
+</defs>
+<rect width="640" height="430" rx="24" fill="url(#g)"/>
+<circle cx="90" cy="80" r="48" fill="#ffffff" opacity=".12"/>
+<circle cx="560" cy="345" r="90" fill="#ffffff" opacity=".08"/>
+<g filter="url(#shadow)">
+  <path d="M230 145 L205 62 Q205 48 220 56 L315 115 Q370 96 425 115 L520 56 Q535 48 535 64 L510 148
+           Q540 190 532 255 Q520 355 370 365 Q220 355 208 255 Q200 190 230 145Z" fill="#d9aeb0"/>
+  <ellipse cx="370" cy="240" rx="122" ry="108" fill="#d9aeb0"/>
+  <ellipse cx="330" cy="235" rx="21" ry="28" fill="#75a6b5"/>
+  <ellipse cx="410" cy="235" rx="21" ry="28" fill="#75a6b5"/>
+  <ellipse cx="330" cy="238" rx="8" ry="17" fill="#191522"/>
+  <ellipse cx="410" cy="238" rx="8" ry="17" fill="#191522"/>
+  <path d="M356 275 Q370 264 384 275 Q370 293 356 275Z" fill="#6b3f4d"/>
+  <path d="M370 289 Q340 315 315 294M370 289 Q400 315 425 294" fill="none" stroke="#6b3f4d" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#777" stroke-width="3" opacity=".8">
+    <path d="M295 285L205 270M295 300L195 300M300 315L215 335"/>
+    <path d="M445 285L535 270M445 300L545 300M440 315L525 335"/>
+  </g>
+  
+        <g fill="none" stroke="#b98283" stroke-width="7" opacity=".65">
+          <path d="M330 330q35 30 70 0M355 380q25 20 50 0M300 430q70 45 140 0"/>
+        </g>
+</g>
+<text x="320" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff" opacity=".9">SPHYNX</text>
+</svg>
